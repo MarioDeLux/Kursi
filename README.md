@@ -1,0 +1,2 @@
+# Kursi
+repo kursiem
