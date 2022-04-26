@@ -10,5 +10,5 @@
 
 
 
-[//]:
+[//]: #
 [repo]: <https://github.com/MarioDeLux/Kursi>
