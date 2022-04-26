@@ -3,8 +3,9 @@
 Šis ir mans [GitHub repo][repo]
 
 
-<img src="./logo.png" alt="Repo logo" style="height: 100px; width:100px;"/>
+<img src="./logo.jtif" alt="Repo logo" style="height: 100px; width:200px;"/>
 
+<img src="./frame.png" alt="QR code to repo" style="height: 100px; width:100px;"/>
 
 
 
